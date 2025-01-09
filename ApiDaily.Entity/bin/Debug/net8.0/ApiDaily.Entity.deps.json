@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiDaily.Entity/1.0.0": {
+        "dependencies": {
+          "ApiDaily.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ApiDaily.Entity.dll": {}
+        }
+      },
+      "ApiDaily.Shared/1.0.0": {
+        "runtime": {
+          "ApiDaily.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiDaily.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiDaily.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

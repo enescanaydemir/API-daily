@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Service/ApiDaily.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Data/ApiDaily.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Data/ApiDaily.Data.csproj",
+        "projectName": "ApiDaily.Data",
+        "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Data/ApiDaily.Data.csproj",
+        "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+        "outputPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/ApiDaily.Entity.csproj": {
+                "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/ApiDaily.Entity.csproj"
+              },
+              "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj": {
+                "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/ApiDaily.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/ApiDaily.Entity.csproj",
+        "projectName": "ApiDaily.Entity",
+        "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/ApiDaily.Entity.csproj",
+        "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+        "outputPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj": {
+                "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Service/ApiDaily.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Service/ApiDaily.Service.csproj",
+        "projectName": "ApiDaily.Service",
+        "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Service/ApiDaily.Service.csproj",
+        "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+        "outputPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Data/ApiDaily.Data.csproj": {
+                "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Data/ApiDaily.Data.csproj"
+              },
+              "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj": {
+                "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj",
+        "projectName": "ApiDaily.Shared",
+        "projectPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/ApiDaily.Shared.csproj",
+        "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
+        "outputPath": "/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

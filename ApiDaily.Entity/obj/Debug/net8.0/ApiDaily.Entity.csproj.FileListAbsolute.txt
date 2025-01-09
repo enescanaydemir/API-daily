@@ -1,0 +1,15 @@
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/bin/Debug/net8.0/ApiDaily.Entity.deps.json
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/bin/Debug/net8.0/ApiDaily.Entity.dll
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/bin/Debug/net8.0/ApiDaily.Entity.pdb
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/bin/Debug/net8.0/ApiDaily.Shared.dll
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/bin/Debug/net8.0/ApiDaily.Shared.pdb
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.csproj.AssemblyReference.cache
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.AssemblyInfoInputs.cache
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.AssemblyInfo.cs
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.csproj.CoreCompileInputs.cache
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.64D9F106.Up2Date
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.dll
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/refint/ApiDaily.Entity.dll
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ApiDaily.Entity.pdb
+/Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Entity/obj/Debug/net8.0/ref/ApiDaily.Entity.dll
