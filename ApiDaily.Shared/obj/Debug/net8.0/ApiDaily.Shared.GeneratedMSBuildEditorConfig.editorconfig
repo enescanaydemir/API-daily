@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiDaily.Shared
-build_property.ProjectDir = /Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/
+build_property.ProjectDir = /Users/enescanaydemir/dev/projects/uzmanlık-ödev/API-daily/ApiDaily.Shared/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
